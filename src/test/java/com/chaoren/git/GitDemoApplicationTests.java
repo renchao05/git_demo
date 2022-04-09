@@ -13,6 +13,7 @@ class GitDemoApplicationTests {
         System.out.println("Hello Git! 第 3 版!!");
         System.out.println("Hello Git! 第 4 版!! hot-fix");
         System.out.println("Hello Git! 第 5 版!! master-4.0");
+        System.out.println("Hello Git! 第 5 版!! hot-fix-2.0");
     }
 
 }
